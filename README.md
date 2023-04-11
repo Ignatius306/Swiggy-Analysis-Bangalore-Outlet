@@ -30,3 +30,10 @@ In the datasets we are provided with following columns (Features) of data.
 * Cost_for_Two (₹) : Approx. Cost of Two people w.r.t. Restaurants.
 
 Out of the 5 features given in the datasets 2 are Continuous and 3 (including the target variable) are Categorical features.
+
+# 🖥️ Technologies:
+## 🛠️ Tools Used
+* Jupyter Notebook is used as IDE. 
+* Pandas is used for Data Manipulation & Pre-processing.
+* Exploratory Data Analysis is automated by dataprep. 
+* For visualization of the plots, Matplotlib, Seaborn, Plotly are used.
