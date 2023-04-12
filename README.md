@@ -8,8 +8,8 @@ Analysis of the following is performed in this Project:
     1. Distribution of 'Rating'.
     2. Area-wise Analysis in terms of 'Rating' and 'Cost_for_Two (₹)' on BTM, HSR, & Koramangala Area.
     3. Analyse "Approx Cost of 2 People" vs "Rating". Find out the relationship between them.
-    4. Analyze Affordable/Budgeted and Highest Rated Restaurants of Bangalore.
-    5. Top 15 Cheapest & Highest Rated Restaurants with Approx. Cost for 2 People.
+    4. Revenue generated in each area
+    5. Top 10 Cheapest & Highest Rated Restaurants with Approx. Cost for 2 People.
     6. Top 15 Expensive & Highest Rated Restaurants with Approx. Cost for 2 People.
     7. Area-wise Cuisines Analysis & Distribution of Cuisines in BTM, HSR, & Koramangala (Bangalore) Restaurants.
     8. Most preferred Cuisines by the Customers.
